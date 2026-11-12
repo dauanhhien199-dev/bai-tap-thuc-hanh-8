@@ -39,8 +39,7 @@ class Program
             new Cho(),
             new Meo(),
             new Vit(),
-            new Cho(),
-            new Meo()
+            
         };
 
         Console.WriteLine(" HE THONG DONG VAT ");
